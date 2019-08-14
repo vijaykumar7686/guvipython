@@ -1,4 +1,4 @@
-#a
+#s
 p,q=map(int,input().split())
 h=p*q
 if((h%2)==0):
